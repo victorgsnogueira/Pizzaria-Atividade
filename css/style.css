@@ -1,0 +1,23 @@
+.row{
+    margin: 0;
+}
+.img{
+    width: 50px;
+    margin-left: 5%;
+}
+
+.principal{
+    min-height: 65vh;
+}
+
+.menu{
+    background-color: rgb(216, 214, 214);
+}
+
+a{
+    color: black;
+}
+
+footer{
+    min-height: 25vh;
+}
